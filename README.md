@@ -1,7 +1,8 @@
 # musical-spork
-A drum kit made by using basic html,css and javascript 
+A drum kit made by using basic html,css and javascript , all the background images have been uploaded along with the sounds of drum kit.
 
 🛠️ Explanation:
+A drum kit set made where the user can play the drums through the various keyboard keys.... enjoiiii
 The switch statement checks the key pressed or button clicked.
 
 Depending on the key (w, a, s, etc.), it creates an Audio object with the corresponding sound file.
